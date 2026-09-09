@@ -18,10 +18,10 @@
 2. Скачивание Netflix. Загрузка большого zip-архива через обычный HTTP/HTTPS.<br>
 3.	В Network абсолютная тишина. Сопоставление данных происходит на личном компьютере без выхода в сеть. Потому активности в сети нет. <br>
 ## Источники: не менее трёх, хотя бы один первичный — отчёт регулятора, научная статья, судебный документ.<br>
-1.	Надёжная деанонимизация больших наборов данных (как разорвать анонимность набора Netflix Prize [Электронный ресурс]. -                                                                URL: https://arxiv.org/html/cs/0610105 (дата обращения: 08.09.2026)<br>
-2.	Википендия.  Вопросы конфиденциальности [Электронный ресурс]. -                                URL: https://en.wikipedia.org/wiki/Netflix_Prize#Privacy_concerns (дата обращения: 08.09.2026)<br>
-3.	Netflix урегулировал иск о конфиденциальности и отменил сиквел премии   [Электронный ресурс]. -   URL:  https://www.forbes.com/sites/firewall/2010/03/12/netflix-settles-privacy-suit-cancels-netflix-prize-two-sequel/ (дата обращения: 08.09.2026)<br>
-4.	Что изменилось в регулировании Big Data: правовой режим «Data Lakes» и обезличивания данных [Электронный ресурс]. -                                                                                         URL: https://mosdigitals.ru/blog/chto-izmenilos-v-regulirovanii-big-data-pravovoj-rezhim-data-lakes-i-obezlichivaniya-dannyh?ysclid=mtsmziyze320729728(дата обращения: 08.09.2026)<br>
+1.	Надёжная деанонимизация больших наборов данных (как разорвать анонимность набора Netflix Prize [Электронный ресурс]. -                                                                URL: ``` https://arxiv.org/html/cs/0610105 ``` (дата обращения: 08.09.2026)<br>
+2.	Википендия.  Вопросы конфиденциальности [Электронный ресурс]. -                                URL: ``` https://en.wikipedia.org/wiki/ ``` Netflix_Prize#Privacy_concerns (дата обращения: 08.09.2026)<br>
+3.	Netflix урегулировал иск о конфиденциальности и отменил сиквел премии   [Электронный ресурс]. -   URL:  ``` https://www.forbes.com/sites/firewall/2010/03/12/ ``` netflix-settles-privacy-suit-cancels-netflix-prize-two-sequel/ ``` (дата обращения: 08.09.2026)<br>
+4.	Что изменилось в регулировании Big Data: правовой режим «Data Lakes» и обезличивания данных [Электронный ресурс]. -                                                                                         URL: ```https://mosdigitals.ru/blog/chto-izmenilos-v-regulirovanii-big-data-pravovoj-rezhim-data-lakes-i-obezlichivaniya-dannyh?ysclid=mtsmziyze320729728 ``` (дата обращения: 08.09.2026)<br>
 
 ## Свой замер: открыть три сайта и посчитать, сколько сторонних доменов получают запросы.
 Сайт            | Сторонник домены<br>
