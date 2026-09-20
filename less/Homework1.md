@@ -36,8 +36,8 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 | Поле | Значение |
 |---|---|
 |  |  |
-| Адрес | Золотое яблоко |
-| Откуда сайт | https://goldapple.ru/?srsltid=AU7gw4UYC7HshbjhkiU529c0NS0-QstBSlmVgMGQPO3L0QW9KguMlKys |
+| Адрес | https://goldapple.ru/?srsltid=AU7gw4UYC7HshbjhkiU529c0NS0-QstBSlmVgMGQPO3L0QW9KguMlKys |
+| Откуда сайт | Золотое яблоко |
 
 ## 2. Три действия и что отправил счётчик
 
@@ -50,7 +50,7 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 |---|---|---|---|
 | 1 | перешла на товар | *` page_view`* | *`dl`,  https://goldapple.ru/99000059940-lip-trio-maximazer* |
 | 2 | перешла в корзину | *`add_to_cart`* | *`dl`, https://goldapple.ru/for-action/dlja-pervyh-holodov/uhod?promos=1* |
-| 3 | удалила товар из корзины | *` remove_from_cart`*  | *`dl`, https://goldapple.ru/brands* |
+| 3 | удалила товар из корзины | *` remove_from_cart`*  | *`dl`, https://goldapple.ru/99000059940-lip-trio-maximazer* |
 
 
 Скриншоты:
@@ -88,6 +88,6 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 
 | Вопрос | Ответ |
 |---|---|
-| Что сделал сам |  |
-| Что спросил у модели |  |
-| Что после этого изменил |  |
+| Что сделал сам | все заданя, смотрела сайт через панель Network |
+| Что спросил у модели | правильно ли я сделала |
+| Что после этого изменил | изменила ошибки |
