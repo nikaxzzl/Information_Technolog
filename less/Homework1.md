@@ -55,7 +55,7 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 
 Скриншоты:
 
-Скриншот: вставьте строку `!'[Панель Network со списком запросов](screens/01-network.png)`
+Скриншот: вставьте строку `![Панель Network со списком запросов](screens/01-network.png)`
 
 Скриншот: вставьте строку `![Вкладка Payload одного события](screens/02-payload.png)`
 
