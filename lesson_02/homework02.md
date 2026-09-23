@@ -158,4 +158,4 @@
 ## 5. Получение Measurement ID
 
 - **Measurement ID:** G-3B3E9HB490
-- **Скриншот:** `screens/05-measurement-id.png`
+![Скриншот](screens/05-measurement-id.png)
