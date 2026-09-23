@@ -153,7 +153,7 @@
 ## 4. Создание Web Data Stream
 **Website URL:** http://bytecamp.ru
 **Stream name:** Website
-**Скриншот:** `screens/04-web-stream.png`
+**Скриншот:** ![screens/04-web-stream.png]
 
 ## 5. Получение Measurement ID
 
