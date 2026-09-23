@@ -138,24 +138,29 @@
 # Часть 2. Google Analytics 4
 ## 1. Создание Analytics Account
  **Название аккаунта:** educationalProject_Nika
- **Скриншот:** `screens/01-analytics-account.png`
+ **Скриншот:** 
+ ![Создание Analytics Account](screens/01-analytics-account.png)
 
 ## 2. Создание Property (Ресурса)
 **Название ресурса:** educationalProject
 **Часовой пояс:** (GMT+03:00) Moca
 **Валюта:** RUB (₽)
-**Скриншот:** `screens/02-property.png`
+**Скриншот:** 
+![Создание Property](screens/02-property.png)
 
 ## 3. Выбор бизнес-целей
 **Выбранные цели:** Анализ трафика сайта и/или приложения
-**Скриншот:** `screens/03-business-goals.png`
+**Скриншот:** 
+![Выбор бизнес-целей](screens/03-business-goals.png)
 
 ## 4. Создание Web Data Stream
 **Website URL:** http://bytecamp.ru
 **Stream name:** Website
-![Скриншот](screens/04-web-stream.png)
+**Скриншот:** 
+![Создание Web Data Stream](screens/04-web-stream.png)
 
 ## 5. Получение Measurement ID
 
 - **Measurement ID:** G-3B3E9HB490
-![Скриншот](screens/05-measurement-id.png)
+- **Скриншот:** 
+![Получение Measurement ID](screens/05-measurement-id.png)
