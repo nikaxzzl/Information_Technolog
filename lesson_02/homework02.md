@@ -163,4 +163,4 @@
 
 - **Measurement ID:** G-3B3E9HB490
 - **Скриншот:** 
-![Получение Measurement ID](screens/05-measurement-id.png)
+![Получение Measurement ID](sreeens/05-measurement-id.png)
