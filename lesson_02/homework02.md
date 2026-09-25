@@ -139,28 +139,28 @@
 ## 1. Создание Analytics Account
  **Название аккаунта:** educationalProject_Nika
  **Скриншот:** 
- ![Создание Analytics Account](screens/01-analytics-account.png)
+ ![Создание Analytics Account](sreeens/01-analytics-account.png)
 
 ## 2. Создание Property (Ресурса)
 **Название ресурса:** educationalProject
 **Часовой пояс:** (GMT+03:00) Moca
 **Валюта:** RUB (₽)
 **Скриншот:** 
-![Создание Property](screens/02-property.png)
+![Создание Property](sreeens/02-property.png)
 
 ## 3. Выбор бизнес-целей
 **Выбранные цели:** Анализ трафика сайта и/или приложения
 **Скриншот:** 
-![Выбор бизнес-целей](screens/03-business-goals.png)
+![Выбор бизнес-целей](sreeens/03-business-goals.png)
 
 ## 4. Создание Web Data Stream
 **Website URL:** http://bytecamp.ru
 **Stream name:** Website
 **Скриншот:** 
-![Создание Web Data Stream](screens/04-web-stream.png)
+![Создание Web Data Stream](sreeens/04-web-stream.png)
 
 ## 5. Получение Measurement ID
 
 - **Measurement ID:** G-3B3E9HB490
 - **Скриншот:** 
-![Получение Measurement ID](screens/05-measurement-id.png)
+![Получение Measurement ID](sreeens/05-measurement-id.png)
