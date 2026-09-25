@@ -25,7 +25,7 @@ Vercel и Google Tag** на сайте курса. Работа сдаётся �
 | Property | educationalProject |
 | Stream name | ByteCamp Website |
 | Website URL в потоке | https://ga4-analytics-lab-alpha.vercel.app/ |
-| Measurement ID (`G-5CMTYQFJVE`) |  |
+| Measurement ID  |  (`G-5CMTYQFJVE`) |
 | Страницы с тегом | Главная (/), About (/about), Contacts (/contacts) — тег установлен на всех страницах |
 
 Тег ставится на каждую страницу по одному разу: две копии дают двойные
