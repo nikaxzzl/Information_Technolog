@@ -42,11 +42,11 @@
 | Measurement ID (`G-…`) |  G-1OwEzMcsUbknnJpQATiEH5wazE2GyM8R9NieyKnSv-NU |
 | Коммит с новой формой (первые 7 символов) |  |
 
-Скриншот: вставьте строку `![Code.gs с ID своей таблицы](screens/02-apps-script.png)`
+Скриншот: вставьте строку ![Code.gs с ID своей таблицы](screens/02-apps-script.png)
 
-Скриншот: вставьте строку `![Окно развёртывания с адресом Web app](screens/03-deployment.png)`
+Скриншот: вставьте строку ![Окно развёртывания с адресом Web app](screens/03-deployment.png)
 
-Скриншот: вставьте строку `![Форма в contacts.html: action и скрытые поля UTM](screens/04-form.png)`
+Скриншот: вставьте строку ![Форма в contacts.html: action и скрытые поля UTM](screens/04-form.png)
 
 ## 3. Две тестовые заявки
 
@@ -68,7 +68,7 @@
 После отправки в GA4 пришло событие `generate_lead`. Оно показывает
 попытку отправки формы, а сама заявка подтверждается строкой в таблице.
 
-Скриншот: вставьте строку `![Событие generate_lead в GA4](screens/07-generate-lead.png)`
+Скриншот: вставьте строку ![Событие generate_lead в GA4](screens/07-generate-lead.png)
 
 ## 5. Проверки
 
@@ -77,9 +77,9 @@
 подсветилась, после кадра я её удалил. Статус `finished` таблица
 не приняла, а через список статус сменился `new` → `in_progress` → `done`.
 
-Скриншот: вставьте строку `![Подсвеченный дубль request_id](screens/08-duplicate.png)`
+Скриншот: вставьте строку ![Подсвеченный дубль request_id](screens/08-duplicate.png)
 
-Скриншот: вставьте строку `![Отказ на значение статуса не из списка](screens/09-status.png)`
+Скриншот: вставьте строку ![Отказ на значение статуса не из списка](screens/09-status.png)
 
 ---
 
