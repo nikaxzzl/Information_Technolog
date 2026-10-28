@@ -8,7 +8,7 @@
 
 | Что | Где |
 |---|---|
-| Продукт по ТЗ: сайт, GA4, UTM, заявки, ManyChat, отчёты, DataLens | отдельный репозиторий проекта |
+| Продукт по ТЗ: сайт, GA4, UTM, заявки, ManyChat, отчёты, Data Studio | отдельный репозиторий проекта `tz-06-vetklinika-lapadok` |
 | Описание работы с кадрами | `docs/opisanie.md` в репозитории проекта |
 | Схема работы | `docs/scheme.png` в репозитории проекта |
 | Презентация к защите | `presentation/zashchita.pdf` в репозитории проекта |
@@ -18,20 +18,19 @@
 
 1. **Создайте отдельный репозиторий проекта.** Код сайта и материалы курсовой
    в `funnel-project` не кладутся.
-   - Название — из раздела 3.4 вашего ТЗ, например `tz-01-skalodrom-kvarcit`.
+   - Название — из раздела 3.4 вашего ТЗ: `tz-06-vetklinika-lapadok`.
    - Репозиторий публичный.
-   - Описание (About) — одна строка: компания и что сделано. Пример:
-     `Сайт скалодрома «Кварцит»: GA4, UTM, заявки в Google Таблицу, ManyChat, дашборд DataLens`.
-   - В поле Website — адрес сайта на Vercel.
-   - Topics: `google-analytics`, `utm`, `apps-script`, `manychat`, `datalens`, `vercel`.
+   - Описание (About) — одна строка: `Сайт ветеринарной клиники «ЛапаДок»: GA4, UTM, заявки в Google Таблицу, ManyChat, дашборд Looker Studio`.
+   - В поле Website — адрес сайта на Vercel: `https://tz-06-vetklinika-lapadok.vercel.app`.
+   - Topics: `google-analytics`, `utm`, `apps-script`, `manychat`, `looker-studio`, `datalens`, `vercel`, `hubspot`.
 2. **Выполните ТЗ.** Этапы и сроки — раздел 9 ТЗ. Каждый этап закрывайте
    коммитом.
-3. **Оформите `README.md` проекта** по шаблону [`shablon_README.md`](shablon_README.md).
+3. **Оформите `README.md` проекта** по шаблону [`shablon_README.md`](shablon_README.md) — заполненный вариант для «ЛапаДок» готов.
 4. **Напишите описание работы** `docs/opisanie.md` по шаблону
    [`shablon_opisanie.md`](shablon_opisanie.md). Каждый шаг подтверждается кадром.
 5. **Положите схему работы** в `docs/scheme.png`. Можно взять «Схему результата»
-   со страницы 3 своего ТЗ или нарисовать свою (draw.io, Figma, Mermaid, ИИ).
-   На схеме — ваши сервисы и ваши названия.
+   со страницы 3 ТЗ-06 или нарисовать свою (draw.io, Figma, Mermaid, ИИ).
+   На схеме — ваши сервисы и ваши названия: соцсети и QR → сайт на Vercel → GA4 / Google Таблица → Looker Studio / HubSpot.
 6. **Сделайте презентацию** по плану [`prezentaciya.md`](prezentaciya.md).
    Выгрузите в PDF: `presentation/zashchita.pdf`. Исходник (`.pptx`, ссылка
    на Google Slides или Figma) — рядом или ссылкой в README.
@@ -48,9 +47,10 @@
 `docs/scheme.png` и папка `presentation/`.
 
 ```text
-tz-01-skalodrom-kvarcit/
-├── index.html  programs.html  …  404.html     страницы сайта
-├── css/  js/analytics.js  js/form.js  img/  files/
+tz-06-vetklinika-lapadok/
+├── index.html  services.html  doctors.html  vaccines.html  pet-kit.html
+├── contacts.html  thanks.html  privacy.html  404.html
+├── css/  js/analytics.js  js/form.js  js/vaccines.js  img/  files/
 ├── apps-script/Code.gs                         приёмник заявок
 ├── docs/
 │   ├── opisanie.md        описание работы с кадрами
@@ -60,9 +60,9 @@ tz-01-skalodrom-kvarcit/
 │   ├── utm.csv            реестр ссылок
 │   ├── report.md          аналитическая записка
 │   ├── images.md          источники изображений
-│   └── afisha.pdf, qr-*.png
+│   └── afisha.pdf, qr-u-12.png
 ├── screens/
-│   ├── ga4/  utm/  instagram/  reports/  explore/  datalens/  lighthouse/
+│   ├── ga4/  utm/  instagram/  reports/  explore/  datastudio/  lighthouse/  crm/
 │   └── kursovaya/         кадры для описания и слайдов
 ├── presentation/
 │   ├── zashchita.pdf      презентация к защите
